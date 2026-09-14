@@ -7,3 +7,6 @@
 [submodule "overthewire-natas"]
 	path = overthewire-natas
 	url = https://github.com/hackadvisermx/overthewire-natas.git
+[submodule "hackmyvm-venus"]
+	path = hackmyvm-venus
+	url = https://github.com/hackadvisermx/hackmyvm-venus.git
