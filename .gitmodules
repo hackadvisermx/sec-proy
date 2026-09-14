@@ -1,0 +1,3 @@
+[submodule "cylab-picoctf"]
+	path = cylab-picoctf
+	url = https://github.com/hackadvisermx/cylab-picoctf.git

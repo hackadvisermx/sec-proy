@@ -1,7 +1,6 @@
 .DS_Store
 
 # Subcarpetas de proyectos hijos (se agregan gradualmente, quitar la línea correspondiente cuando toque incluirla)
-/cylab-picoctf/
 /hackmyvm-hades/
 /hackmyvm-venus/
 /overthewire-bandit/
