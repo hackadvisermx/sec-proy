@@ -4,7 +4,7 @@ Este repositorio reúne, de forma incremental, las soluciones (writeups) a disti
 
 ## Estado actual
 
-Por ahora solo está incluido **[`cylab-picoctf/`](cylab-picoctf/)**, con las soluciones documentadas de los retos de **picoCTF** alojados en [CyLab Security Academy](https://learn.cylabacademy.org), organizados por categoría y dificultad.
+Por ahora solo está incluido **[`cylab-picoctf/`](https://github.com/hackadvisermx/cylab-picoctf)** (repositorio hijo, referenciado como submódulo git), con las soluciones documentadas de los retos de **picoCTF** alojados en [CyLab Security Academy](https://learn.cylabacademy.org), organizados por categoría y dificultad.
 
 ### Contenido de `cylab-picoctf/` hasta el momento
 
