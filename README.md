@@ -16,7 +16,7 @@ Cada proyecto incluido es un **repositorio hijo**, referenciado aquí como subm�
 - **cylab-picoctf**
   - General Skills — Easy: 48/48 retos resueltos y documentados.
   - General Skills — Medium: 8 retos resueltos y documentados (los que estaban pendientes en esta cuenta; algunos otros de esta subcategoría ya aparecían resueltos de antes y quedan pendientes de writeup).
-  - Web Exploitation — Easy: 16/20 retos documentados (en curso, en bloques de 4).
+  - Web Exploitation — Easy: 20/20 resueltos y documentados — completo.
 - **overthewire-bandit**: 34/34 niveles (0-33) resueltos y documentados — completo.
 - **overthewire-natas**: 35/35 niveles (0-34) resueltos y documentados — completo.
 - **hackmyvm-venus**: cadena completa, 51/51 misiones (0x01-0x51) resueltas y documentadas — completo.
@@ -25,5 +25,5 @@ Cada reto/nivel tiene su propio writeup con la técnica usada para resolverlo (s
 
 ### Próximamente
 
-- Resto de **Web Exploitation — Easy** (4 retos restantes) y el resto de categorías de picoCTF: Cryptography, Reverse Engineering, Forensics, Binary Exploitation, Blockchain, Artificial Intelligence.
+- Resto de categorías de picoCTF (Web Exploitation Easy ya está al 100%): Cryptography, Reverse Engineering, Forensics, Binary Exploitation, Blockchain, Artificial Intelligence (y los niveles Medium/Hard de Web Exploitation).
 - El resto de proyectos que ya existen localmente pero todavía no forman parte de este repo: `hackmyvm-hades`. Se irá agregando cuando se retome.
