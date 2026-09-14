@@ -4,17 +4,24 @@ Este repositorio reúne, de forma incremental, las soluciones (writeups) a disti
 
 ## Estado actual
 
-Por ahora solo está incluido **[`cylab-picoctf/`](https://github.com/hackadvisermx/cylab-picoctf)** (repositorio hijo, referenciado como submódulo git), con las soluciones documentadas de los retos de **picoCTF** alojados en [CyLab Security Academy](https://learn.cylabacademy.org), organizados por categoría y dificultad.
+Cada proyecto incluido es un **repositorio hijo**, referenciado aquí como submódulo git:
 
-### Contenido de `cylab-picoctf/` hasta el momento
+- **[`cylab-picoctf/`](https://github.com/hackadvisermx/cylab-picoctf)** — soluciones a retos de **picoCTF** alojados en [CyLab Security Academy](https://learn.cylabacademy.org), organizados por categoría y dificultad.
+- **[`overthewire-bandit/`](https://github.com/hackadvisermx/overthewire-bandit)** — soluciones al wargame **Bandit** de OverTheWire.
+- **[`overthewire-natas/`](https://github.com/hackadvisermx/overthewire-natas)** — soluciones al wargame **Natas** de OverTheWire.
 
-- **General Skills — Easy**: 48/48 retos resueltos y documentados.
-- **General Skills — Medium**: 8 retos resueltos y documentados (los que estaban pendientes en esta cuenta; algunos otros de esta subcategoría ya aparecían resueltos de antes y quedan pendientes de writeup).
-- **Web Exploitation — Easy**: 4/24 retos documentados (en curso, en bloques de 4).
+### Contenido hasta el momento
 
-Cada reto tiene su propio writeup en `cylab-picoctf/challenges/<categoria>/{easy,medium}/<reto>/README.md`, documentando la técnica usada para resolverlo (sin publicar las flags).
+- **cylab-picoctf**
+  - General Skills — Easy: 48/48 retos resueltos y documentados.
+  - General Skills — Medium: 8 retos resueltos y documentados (los que estaban pendientes en esta cuenta; algunos otros de esta subcategoría ya aparecían resueltos de antes y quedan pendientes de writeup).
+  - Web Exploitation — Easy: 8/24 retos documentados (en curso, en bloques de 4).
+- **overthewire-bandit**: 34/34 niveles (0-33) resueltos y documentados — completo.
+- **overthewire-natas**: 35/35 niveles (0-34) resueltos y documentados — completo.
+
+Cada reto/nivel tiene su propio writeup con la técnica usada para resolverlo (sin publicar flags ni contraseñas).
 
 ### Próximamente
 
-- Resto de **Web Exploitation — Easy** (20 retos restantes) y el resto de categorías de picoCTF: Cryptography, Reverse Engineering, Forensics, Binary Exploitation, Blockchain, Artificial Intelligence.
-- El resto de proyectos que ya existen localmente pero todavía no forman parte de este repo: `hackmyvm-hades`, `hackmyvm-venus`, `overthewire-bandit`, `overthewire-natas`. Se irán agregando uno a uno.
+- Resto de **Web Exploitation — Easy** (16 retos restantes) y el resto de categorías de picoCTF: Cryptography, Reverse Engineering, Forensics, Binary Exploitation, Blockchain, Artificial Intelligence.
+- El resto de proyectos que ya existen localmente pero todavía no forman parte de este repo: `hackmyvm-hades`, `hackmyvm-venus`. Se irán agregando uno a uno.

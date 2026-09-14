@@ -1,3 +1,9 @@
 [submodule "cylab-picoctf"]
 	path = cylab-picoctf
 	url = https://github.com/hackadvisermx/cylab-picoctf.git
+[submodule "overthewire-bandit"]
+	path = overthewire-bandit
+	url = https://github.com/hackadvisermx/overthewire-bandit.git
+[submodule "overthewire-natas"]
+	path = overthewire-natas
+	url = https://github.com/hackadvisermx/overthewire-natas.git
