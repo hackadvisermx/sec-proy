@@ -10,3 +10,6 @@
 [submodule "hackmyvm-venus"]
 	path = hackmyvm-venus
 	url = https://github.com/hackadvisermx/hackmyvm-venus.git
+[submodule "root-me"]
+	path = root-me
+	url = https://github.com/hackadvisermx/root-me.git

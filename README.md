@@ -10,6 +10,7 @@ Cada proyecto incluido es un **repositorio hijo**, referenciado aquí como subm�
 - **[`overthewire-bandit/`](https://github.com/hackadvisermx/overthewire-bandit)** — soluciones al wargame **Bandit** de OverTheWire.
 - **[`overthewire-natas/`](https://github.com/hackadvisermx/overthewire-natas)** — soluciones al wargame **Natas** de OverTheWire.
 - **[`hackmyvm-venus/`](https://github.com/hackadvisermx/hackmyvm-venus)** — soluciones al wargame **Venus** de HackMyVM.
+- **[`root-me/`](https://github.com/hackadvisermx/root-me)** — writeups de los desafíos de **[Root-Me](https://www.root-me.org/es/Desafios/)**, organizados por categoría técnica.
 
 ### Contenido hasta el momento
 
@@ -20,10 +21,12 @@ Cada proyecto incluido es un **repositorio hijo**, referenciado aquí como subm�
 - **overthewire-bandit**: 34/34 niveles (0-33) resueltos y documentados — completo.
 - **overthewire-natas**: 35/35 niveles (0-34) resueltos y documentados — completo.
 - **hackmyvm-venus**: cadena completa, 51/51 misiones (0x01-0x51) resueltas y documentadas — completo.
+- **root-me**: repositorio y estructura inicial creados; inventario y documentación de retos pendientes de iniciar.
 
 Cada reto/nivel tiene su propio writeup con la técnica usada para resolverlo (sin publicar flags ni contraseñas).
 
 ### Próximamente
 
 - Resto de categorías de picoCTF (Web Exploitation Easy ya está al 100%): Cryptography, Reverse Engineering, Forensics, Binary Exploitation, Blockchain, Artificial Intelligence (y los niveles Medium/Hard de Web Exploitation).
+- Inventario inicial y writeups de los desafíos de Root-Me, por categoría.
 - El resto de proyectos que ya existen localmente pero todavía no forman parte de este repo: `hackmyvm-hades`. Se irá agregando cuando se retome.
