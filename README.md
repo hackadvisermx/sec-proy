@@ -21,7 +21,7 @@ Cada proyecto incluido es un **repositorio hijo**, referenciado aquí como subm�
 - **overthewire-bandit**: 34/34 niveles (0-33) resueltos y documentados — completo.
 - **overthewire-natas**: 35/35 niveles (0-34) resueltos y documentados — completo.
 - **hackmyvm-venus**: cadena completa, 51/51 misiones (0x01-0x51) resueltas y documentadas — completo.
-- **root-me**: 68/558 retos validados y documentados; el inventario y los writeups se amplían en el orden del catálogo de Root-Me.
+- **root-me**: 73/558 retos validados y documentados; el inventario y los writeups se amplían en el orden del catálogo de Root-Me.
 
 Cada reto/nivel tiene su propio writeup con la técnica usada para resolverlo (sin publicar flags ni contraseñas).
 
